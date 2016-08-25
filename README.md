@@ -1,14 +1,13 @@
-TΞΛM BФSS 🛡
+TΞΛM the_knig 🛡
 
-🛡 channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
 
-🌐DEV : @TH3BOSS
+🌐DEV : @abo_shosho98
 
 🔺➖🔺➖🔺➖🔺➖
 
-كيفيه تنصيب  TeleBoss  
+كيفيه تنصيب  The_king
 
-#نسخه_انكلش_لمحبي_وعشاق_الانكلش 
+
 🔺➖🔺➖🔺➖🔺➖
 
 افتـح ترمنـــأل وخلي   
@@ -42,7 +41,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 🔺➖🔺➖🔺➖🔺➖
 
-git clone https://github.com/moody2020/TeleBoss.git
+git clone https://github.com/mandla99/the_king.git
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -50,7 +49,7 @@ git clone https://github.com/moody2020/TeleBoss.git
 
 🔺➖🔺➖🔺➖🔺➖
 
-cd TeleBoss
+cd the_king
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -84,15 +83,13 @@ chmod +x launch.sh
 
 عندك استفسار او اي شي راسلني
 
-@TH3BOSS 
+@abo_shosho98
 
 واذا محظور تعال على بوت التواصل
 
-@ll60Kllbot
+@aboaloshbot
 
-قـنـاة الـسـورس
 
-@llDEV1ll
 
 🛡 Realm configuration
 
@@ -105,8 +102,8 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-🛡Support and development [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)✨
+🛡Support and development [the_king](https://telegram.me/aboaloshbot)✨
 
 For managing on Telegram.
-ADD [@TH3BOSS](https://telegram.me/TH3BOSS) 🛡
-Subscribe to Source channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
+ADD [@abo_shosho98](https://telegram.me/abo_shosho98) 🛡
+Subscribe to Source channel [the-king] (https://github.com/mandla99/the_king.git)
