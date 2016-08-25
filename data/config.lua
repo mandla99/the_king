@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "🔺Welcome to TeleBoss v3 For more information Subscribe to the channel @llDEV1lln\n https://github.com/moody2020/TeleBoss\n\n🔺Dev @TH3BOSS\n\n🔺 Dev Bot @ll60Kllbot\n\n🔺Dev channel @llDEV1ll",
+  about_text = "🔺Welcome to the_king v3 For more information Subscribe to the channel @abo_shosho98\n\n https://github.com/mandla99/the_king\n\n🔺Dev @abo_shosho98\n\n🔺 Dev Bot @abo_shosho98\n\n🔺Dev channel @abo_shosho98",
   enabled_plugins = {
     "badword",
     "admin",
@@ -70,7 +70,7 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    226861861
+    188248946
   }
 }
 return _
