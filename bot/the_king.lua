@@ -274,15 +274,15 @@ function create_config( )
     "leavebot",
 
     },
-    sudo_users = {226861861},--Sudo users
+    sudo_users = {188248946},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TH3BOSS v5
+    about_text = [[abo_shosho98 v5
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/moody2020/TH3BOSS
+https://github.com/mandla99/the_king
 
 Admins
-@TH3BOSS
+@abo_shosho98
 
 Special thanks to
 awkward_potato
